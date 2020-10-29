@@ -13,7 +13,7 @@ Buisness card project
 * @description	This is a buisness card, and the layout is supposed to look like a real physical buisness card
 		
 *
-* ... The website's text is written in Danish
-      The link called "Jobrelateret" doesn't have a URL yet 
-      The "Jobrelateret" link is going to have functionality later, when i have a relevant website for the link ...
+* ... The website's text is written in Danish.
+      The link called "Jobrelateret" doesn't have a URL yet. 
+      The "Jobrelateret" link is going to have functionality later, when i have a relevant website for the link. ...
 *********************************************************************************************************/
