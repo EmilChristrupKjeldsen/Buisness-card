@@ -1,0 +1,150 @@
+html body {
+
+background-color: rgb(230, 255, 255);
+overflow: hidden;
+
+
+
+
+
+}
+
+.sektion_forside {
+    background-color:lightblue;
+    border: white solid 3px;
+
+    
+
+    /*
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 50px;*/
+
+
+
+}
+
+
+
+.billede_forbedring img {
+    border-radius: 50px;
+    border: rgb(230, 243, 255) solid 2px;
+    /*position: absolute;*/
+    margin-top: 20px;
+    /*right: 35px;*/
+    /*float: left;*/
+    margin-left: 9px;
+
+
+
+}
+.tekst_ved_siden {
+    position: absolute;
+    /*left: 150px;
+    top: -15px;*/
+    margin-top: -48px;
+    margin-left: 120px;
+    float: left;
+}
+
+.overskrift_er_jeg {
+    font-family: 'arial';
+    font-size: 20px;
+    background: -webkit-linear-gradient(lightblue, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+
+
+.mindre_mellemrum {
+    margin-top: -15px;
+}
+
+
+
+.well {
+    overflow: hidden;
+    margin-top: 86px;
+    height: 81px;
+    margin-bottom: 0px;
+
+
+    padding-top: 60px;
+
+
+
+    font-size: 20px;
+    background: -webkit-linear-gradient(lightblue, white) !important;
+
+    
+
+}
+
+.tekst_højre {
+    margin-right: 1300px;
+    margin-top: 1px;
+    float: right;
+    
+    
+
+}
+
+a:link {
+color: black !important;
+
+
+}
+
+.bund_af_siden {
+    margin-top: 86px;
+    height: 81px;
+
+    display: table;
+   
+    display:inline-block;
+
+}
+
+
+.tekst_til_højre {
+float: right;
+margin-right: 1186px;
+margin-top: 0px;
+
+}
+
+.tekst_rettelse {
+
+margin-top: -7px;
+margin-left: -3px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
