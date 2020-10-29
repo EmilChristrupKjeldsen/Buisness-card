@@ -1,5 +1,5 @@
-# Visitkort
-Visitkort projekt
+# Buisness card
+Buisness card project
 
 /********************************************************************************************************
 * Copyright (C) Aarhus Tech / SKP Data IT - All Rights Reseserved
